@@ -1,5 +1,9 @@
 # Tasks Assigned by  Zuraverse
 
+### TASK: Develop demo Smart Contract for the one or more NFTs mentioned in the brief (Tree, Garden etc.) and feel free to add more features. 
+
+**The smart contract file is NFT.sol** 
+
 ### Tree NFT enables the following functionalities:
 
 * Minting Tree NFTs: The contract allows the owner to mint new Tree NFTs by calling the mintTree function. It takes parameters such as the recipient address, token ID, sapling ID, geotag, updates hash, and timestamp. This functionality creates a new Tree NFT with the specified details.
