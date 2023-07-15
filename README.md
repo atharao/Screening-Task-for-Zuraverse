@@ -2,7 +2,7 @@
 
 ### TASK: Develop demo Smart Contract for the one or more NFTs mentioned in the brief (Tree, Garden etc.) and feel free to add more features. 
 
-**The smart contract file is NFT.sol** 
+&rarr; The smart contract file is **NFT.sol** 
 
 ### Tree NFT enables the following functionalities:
 
